@@ -34,7 +34,7 @@ ol
   padding-left: 75px;
 }
 
-#grid #article .youtube-media
+.youtube-media
 {
   position: relative;
   width: 100%;
@@ -42,7 +42,7 @@ ol
   padding-bottom: 56.25%;
 }
 
-#grid #article .youtube-media iframe
+.youtube-media iframe
 {
     position: absolute;
     top:0;
